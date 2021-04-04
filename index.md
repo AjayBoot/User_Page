@@ -1,14 +1,12 @@
 # Ajay Booter
 
-![alt text](https://github.com/AjayBoot/User_Page/blob/main/me.jpg)
-
 ### A little about me.
 
 - [Introduction](https://github.com/AjayBoot/User_Page/blob/main/index.md#introduction)
 - [Video Games](https://github.com/AjayBoot/User_Page/blob/main/index.md#video-games)
 - [Books](https://github.com/AjayBoot/User_Page/blob/main/index.md#books)
 - [Goals](https://github.com/AjayBoot/User_Page/blob/main/index.md#goals)
-
+- [Me](https://github.com/AjayBoot/User_Page/blob/main/index.md#me)
 ##### Introduction
 
 Hello! This is my third year here at UCSD, where I’m majoring in computer engineering in Sixth College. My interest in pursuing a degree in computer engineering comes from spending time building my own desktop and my initial curiosity of becoming a software developer. Now, I aspire to focus more on embedded systems and possibly continue onto things like circuit design. Eventually, I hope to work in different parts of the country, and maybe even relocate to other countries for a while.
@@ -55,3 +53,8 @@ I have many goals for myself that I set for myself during the pandemic. Some of 
 - [x] Stay on top of my classes
 
 The last goal of staying on top of my classes was especially difficult and important to me. It was been hard to have the motivation to do much at all throughout the pandemic. However, I've been taking it one step at a time and been getting my work done on time. 
+
+##### Me
+Here's a picture of me!
+
+![alt text](https://github.com/AjayBoot/User_Page/blob/main/me.jpg)
