@@ -3,7 +3,9 @@
 
 Hello! This is my third year here at UCSD, where I’m majoring in computer engineering in Sixth College. My interest in pursuing a degree in computer engineering comes from spending time building my own desktop and my initial curiosity of becoming a software developer. Now, I aspire to focus more on embedded systems and possibly continue onto things like circuit design. Eventually, I hope to work in different parts of the country, and maybe even relocate to other countries for a while.
 
-I currently live in the Bay Area, where I spend most of my time watching shows on netflix or youtube, and playing video games. I’ve played and enjoyed many different genres of video games, from strategy games like **Civilization V**, to MOBAs like **League of Legends**, and FPS games like **CS:GO**. Currently, I'd rank my favorite games as:
+As a programmer, I tend to really enjoy using keyboard as much as I can as opposed to having to reach over for my mouse. In my CSE lower divs, I enjoyed learning all of the vim keyboard shortcuts so that I wouldn't have to reach over and use my mouse. Even for this lab, I preferred inputting the `git add`, `git commit`, and `git push` commands rather than using VSCode's UI. In this case, it allowed me to get a more concrete understanding for how to interact with github, but I also feel more productive typing things out as opposed to clicking on them.
+
+I currently live in the Bay Area, where I spend most of my time watching shows on netflix or youtube, and playing video games. I’ve played and enjoyed many different genres of video games, from strategy games like *Civilization V*, to MOBAs like *League of Legends*, and FPS games like *Counter Strike : Global Offensive*. Currently, I'd rank my favorite games as:
 
 1. XCOM2
 2. Borderlands 3
