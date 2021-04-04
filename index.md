@@ -7,6 +7,8 @@ As a programmer, I tend to really enjoy using keyboard as much as I can as oppos
 
 I currently live in the Bay Area, where I spend most of my time watching shows on netflix or youtube, and playing video games. I’ve played and enjoyed many different genres of video games, from strategy games like *Civilization V*, to MOBAs like *League of Legends*, and FPS games like *Counter Strike : Global Offensive*. Currently, I'd rank my favorite games as:
 
+##### Video Games
+
 1. XCOM2
 2. Borderlands 3
 3. Risk of Rain 2
@@ -17,6 +19,8 @@ I currently live in the Bay Area, where I spend most of my time watching shows o
 But honestly, it really depends on what my friends are playing, since I have a lot of fun playing with multiplayer games with other people as much as I enjoy single-player games.
 
 Before COVID, I would often go rock climbing at the [rec gym](https://recreation.ucsd.edu/adventures/climbing-center/) on campus. Now, since the gyms are closed, I’ve spent time reading books once again. Some of my favorite books include:
+
+##### Books
 
 - The Wheel of Time series
 - Unbroken
@@ -29,6 +33,8 @@ Unbroken was a particularly inspirational novel for me as I read through all of 
 Although this quote might be better applied to more extreme situations, it's motivating to apply it to everyday situations. Putting the hardwork and effort now will only lead to a more beneficial future. 
 
 I have many goals for myself that I set for myself during the pandemic. Some of them include:
+
+##### Goals
 
 - [x] Finish the Wheel of Time
 - [ ] Run/Rock climb on a regular schedule
