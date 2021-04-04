@@ -1,6 +1,11 @@
 # Ajay Booter
 ### A little about me.
 
+[Introduction](https://github.com/AjayBoot/User_Page/blob/main/index.md#introduction)
+[Video Games](https://github.com/AjayBoot/User_Page/blob/main/index.md#video_games)
+[Books](https://github.com/AjayBoot/User_Page/blob/main/index.md#books)
+[Goals](https://github.com/AjayBoot/User_Page/blob/main/index.md#goals)
+
 ##### Introduction
 
 Hello! This is my third year here at UCSD, where I’m majoring in computer engineering in Sixth College. My interest in pursuing a degree in computer engineering comes from spending time building my own desktop and my initial curiosity of becoming a software developer. Now, I aspire to focus more on embedded systems and possibly continue onto things like circuit design. Eventually, I hope to work in different parts of the country, and maybe even relocate to other countries for a while.
