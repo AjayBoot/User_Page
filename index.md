@@ -1,10 +1,10 @@
 # Ajay Booter
 ### A little about me.
 
-[Introduction](https://github.com/AjayBoot/User_Page/blob/main/index.md#introduction)
-[Video Games](https://github.com/AjayBoot/User_Page/blob/main/index.md#video_games)
-[Books](https://github.com/AjayBoot/User_Page/blob/main/index.md#books)
-[Goals](https://github.com/AjayBoot/User_Page/blob/main/index.md#goals)
+- [Introduction](https://github.com/AjayBoot/User_Page/blob/main/index.md#introduction)
+- [Video Games](https://github.com/AjayBoot/User_Page/blob/main/index.md#video-games)
+- [Books](https://github.com/AjayBoot/User_Page/blob/main/index.md#books)
+- [Goals](https://github.com/AjayBoot/User_Page/blob/main/index.md#goals)
 
 ##### Introduction
 
