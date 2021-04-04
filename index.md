@@ -57,4 +57,4 @@ The last goal of staying on top of my classes was especially difficult and impor
 ##### Me
 Here's a picture of me:
 
-![picture](https://github.com/AjayBoot/User_Page/blob/e9a6c8b967fa0e0a53c520bf3091939d5e033d1f/PicOfMe.jpg)
+![picture](https://github.com/AjayBoot/User_Page/blob/main/me.jpg)
