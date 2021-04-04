@@ -55,6 +55,6 @@ I have many goals for myself that I set for myself during the pandemic. Some of 
 The last goal of staying on top of my classes was especially difficult and important to me. It was been hard to have the motivation to do much at all throughout the pandemic. However, I've been taking it one step at a time and been getting my work done on time. 
 
 ##### Me
-Here's a picture of me!
+Here's a picture of me:
 
 ![alt text](https://github.com/AjayBoot/User_Page/blob/main/me.jpg)
