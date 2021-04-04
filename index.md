@@ -1,4 +1,7 @@
 # Ajay Booter
+
+![alt text](https://github.com/AjayBoot/User_Page/blob/main/me.jpg)
+
 ### A little about me.
 
 - [Introduction](https://github.com/AjayBoot/User_Page/blob/main/index.md#introduction)
